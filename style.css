@@ -1,10 +1,19 @@
-body{
+.mainbody{
 width: 1421px;
 height: 4473px;
 flex-shrink: 0;
 border: 0px solid #000;
 background:#74777E;
 }
+.contactsbody{
+width: 1421px;
+height: 4473px;
+flex-shrink: 0;
+border: 0px solid #000;
+background:#74777E;
+}
+
+
 
 header{
     /*background-color: black;*/
@@ -79,9 +88,6 @@ header{
     font-weight: 400;
     line-height: normal;
 }
-
-
-
 
 .orderbutton{
     width: 249px;
@@ -222,4 +228,11 @@ top: -800px;
     z-index: 1;
     left: 250px;
 }
-.suurtext4{}
+.suurtext7{
+    color: #fff;
+    font-family: Lexend;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
