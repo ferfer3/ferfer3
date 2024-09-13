@@ -185,8 +185,16 @@ top: -800px;
     font-weight: 400;
 }
 .suurtext4{
-    font-size: 70px;
+    position: relative;
 
+    left: 750px;
+
+    color: #FFF;
+    font-family: Andika New Basic;
+    font-size: 50px;
+    font-style: normal;
+    font-weight: 400;
+}
 .pattern3{
    
     position: relative;
